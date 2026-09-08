@@ -54,6 +54,11 @@
   }
 }
 
+.masthead__title,
+.masthead__subtitle {
+  font-size: 115%;
+}
+
 .masthead__menu-item {
   background-color: var(--global-bg-color);
   display: block;

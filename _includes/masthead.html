@@ -7,9 +7,9 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">
-            <font size='+1'> {{ site.title }} </font>
+            <font size='+1'><span class="masthead__title">{{ site.title }}</span></font>
             <br>
-            <font size='-1'> {{ site.subtitle }} </font>
+            <font size='-1'><span class="masthead__subtitle">{{ site.subtitle }}</span></font>
           </a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
