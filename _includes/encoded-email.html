@@ -1,0 +1,17 @@
+{%- comment -%}Encode printable ASCII as numeric HTML entities using GitHub Pages-compatible Liquid.{%- endcomment -%}
+{%- capture ascii -%}!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~{%- endcapture -%}
+{%- assign ascii_characters = ascii | split: '' -%}
+{%- assign email_characters = include.email | split: '' -%}
+{%- capture encoded_email -%}
+  {%- for character in email_characters -%}
+    {%- assign matched = false -%}
+    {%- for ascii_character in ascii_characters -%}
+      {%- if character == ascii_character -%}
+        &#{{ forloop.index | plus: 32 }};
+        {%- assign matched = true -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- unless matched -%}{{ character | escape }}{%- endunless -%}
+  {%- endfor -%}
+{%- endcapture -%}
