@@ -90,7 +90,7 @@ author:
   avatar           : "aki_nishimura.jpg"
   bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
   email            : # Hard coded in `author-profile.html`, as a (apparently very weak) anti-spam measure, using HTML entity encoding as `&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;`
-  location         : "Baltimore, MD"
+  location         : # "Baltimore, MD"
   employer         :
   pubmed           : # Full URL to your PubMed author search or publications
   arxiv            : # Full URL to your arXiv author page
@@ -110,7 +110,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6932-2513"
+  orcid            : # "https://orcid.org/0000-0002-6932-2513"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -121,8 +121,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  twitter          : "_aki_nishimura"
-  bluesky          : # Handle only, e.g. "yourname.bsky.social" (no @ or URL)
+  twitter          : # "_aki_nishimura"
+  bluesky          : "aki-nishimura.bsky.social" # Handle only, e.g. "yourname.bsky.social" (no @ or URL)
 
 
 # Reading Files
