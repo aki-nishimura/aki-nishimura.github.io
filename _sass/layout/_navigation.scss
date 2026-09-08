@@ -225,6 +225,11 @@
       }
     }
 
+    // Keep the site title clickable without the navigation hover bar.
+    .masthead__menu-item--lg > a::before {
+      content: none;
+    }
+
     #theme-toggle {
       a {
         width: 25px;
