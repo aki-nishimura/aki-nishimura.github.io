@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Akihiko Nishimura"
-subtitle                 : "(Bayesian) Statistician / Public Health Data Scientist"
+subtitle                 : "Bayesian Statistician & Health Data Scientist"
 title_separator          : "-"
 name                     : &name "Akihiko (Aki) Nishimura"
 description              : &description "personal description"
