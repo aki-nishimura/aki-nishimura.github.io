@@ -62,8 +62,7 @@ The full publication list is available on [my Google Scholar profile](https://sc
   [Sex Differences in Comparative Effectiveness and Safety of Second-line Antidiabetic Agents: Real-world Evidence from Large-scale Multinational Study](https://doi.org/10.64898/2026.04.10.26350252).
 
 - Chin, A.\* and <u>Nishimura, A. </u> (2025) <br>
-  [Smoothing Out Sticking Points: Sampling from Discrete-Continuous Mixtures with Dynamical Monte Carlo by Mapping Discrete Mass into a Latent Universe](https://doi.org/10.48550/arXiv.2511.07340). <br>
-  *arXiv:2511.07340*.
+  [Smoothing Out Sticking Points: Sampling from Discrete-Continuous Mixtures with Dynamical Monte Carlo by Mapping Discrete Mass into a Latent Universe](https://doi.org/10.48550/arXiv.2511.07340).
 
 - Chin, A.\* and <u>Nishimura, A. </u> (2024) <br>
   [MCMC using bouncy Hamiltonian dynamics: A unifying framework for Hamiltonian Monte Carlo and piecewise deterministic Markov process samplers](https://doi.org/10.48550/arXiv.2405.08290).
