@@ -10,7 +10,7 @@ The full publication list is available on [my Google Scholar profile](https://sc
 
 ## Computational statistics
 
-- <u>Nishimura, A. </u> and Suchard, M. A. (2025) <br>
+- <u>Nishimura, A. </u>, Zhang, Z., and Suchard, M. A. (2025) <br>
   [Zigzag path connects two Monte Carlo samplers: Hamiltonian counterpart to a piecewise deterministic Markov process](https://doi.org/10.1080/01621459.2024.2395587). <br>
   *Journal of the American Statistical Association*.
 
