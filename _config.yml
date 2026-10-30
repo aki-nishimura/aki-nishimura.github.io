@@ -131,6 +131,7 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/teaching.md # Keep the source available without rendering the page.
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
