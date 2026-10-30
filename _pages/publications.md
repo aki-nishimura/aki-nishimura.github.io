@@ -10,6 +10,10 @@ The full publication list is available on [my Google Scholar profile](https://sc
 
 ## Computational statistics
 
+- Chin, A.\* and <u>Nishimura, A. </u> (2026) <br>
+  [MCMC using bouncy Hamiltonian dynamics: A unifying framework for Hamiltonian Monte Carlo and piecewise deterministic Markov process samplers](https://doi.org/10.1080/10618600.2026.2748046). <br>
+  *Journal of Computational and Graphical Statistics*.
+
 - <u>Nishimura, A. </u>, Zhang, Z., and Suchard, M. A. (2025) <br>
   [Zigzag path connects two Monte Carlo samplers: Hamiltonian counterpart to a piecewise deterministic Markov process](https://doi.org/10.1080/01621459.2024.2395587). <br>
   *Journal of the American Statistical Association*.
@@ -63,6 +67,3 @@ The full publication list is available on [my Google Scholar profile](https://sc
 
 - Chin, A.\* and <u>Nishimura, A. </u> (2025) <br>
   [Smoothing Out Sticking Points: Sampling from Discrete-Continuous Mixtures with Dynamical Monte Carlo by Mapping Discrete Mass into a Latent Universe](https://doi.org/10.48550/arXiv.2511.07340).
-
-- Chin, A.\* and <u>Nishimura, A. </u> (2024) <br>
-  [MCMC using bouncy Hamiltonian dynamics: A unifying framework for Hamiltonian Monte Carlo and piecewise deterministic Markov process samplers](https://doi.org/10.48550/arXiv.2405.08290).
