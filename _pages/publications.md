@@ -37,7 +37,7 @@ The full publication list is available on [my Google Scholar profile](https://sc
   [Shrinkage with shrunken shoulders: Gibbs sampling shrinkage model posteriors with guaranteed convergence rates](ttps://doi.org/10.1214/22-BA1308). <br>
   *Bayesian Analysis*.
 
-- Zhang, Z., <u>Nishimura, A. </u>, Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2021) <br>
+- Zhang, Z.\*, <u>Nishimura, A. </u>, Bastide, P., Ji, X., Lemey, P., and Suchard, M. A. (2021) <br>
   [Large-scale inference of correlation among mixed-type biological traits with phylogenetic multivariate probit models](https://doi.org/10.1214/20-AOAS1394). <br>
   *Annals of Applied Statistics*.
 
